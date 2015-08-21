@@ -1,0 +1,1 @@
+C:\Users\majmal\Documents\GitHub\hello-jenkins\node_modules\.bin\_mocha.cmd C:\Users\majmal\Documents\GitHub\hello-jenkins\test\test.js
